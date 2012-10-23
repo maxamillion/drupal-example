@@ -20,7 +20,7 @@ Create a php-5.3 application
 
 Add MySQL support to your application
 
-    rhc app cartridge add -a drupal -c mysql-5.1
+    rhc cartridge add -a drupal -c mysql-5.1
 
 Add this upstream drupal repo
 
